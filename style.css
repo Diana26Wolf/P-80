@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(233, 64, 182);
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+#lines{
+background-color: rgb(118, 139, 255);
+
+width:700px ;
+border-radius: 10px;
+color:white ;
+border-color: black;
+border-style: solid;
+}
+#Sort {
+    display: none;
+    margin: 20px;
+    background-color: rgb(118, 139, 255);
+    color: rgb(233, 64, 182);
+    font-size: 25px;
+}
+#Sub {
+    margin: 20px;
+    background-color: rgb(118, 139, 255);
+    color: rgb(233, 64, 182);
+    font-size: 25px;
+}
+input{
+    background-color: rgb(118, 139, 255);
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+}
